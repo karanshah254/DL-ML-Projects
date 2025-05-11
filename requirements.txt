@@ -10,3 +10,27 @@ sentence-transformers
 groq
 tqdm
 streamlit
+transformers
+pandas
+numpy
+ipywidgets
+plotly
+kaleido
+pillow
+
+# hugging face things
+smolagents[telemetry]
+
+# arize things
+openinference-instrumentation
+arize-phoenix-otel
+arize-phoenix
+
+# e2b things
+e2b-code-interpreter
+openai
+
+# web search
+tavily-python
+
+markdownify
